@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marlon Mogollon</h1>
-<h3 align="center"Front end web developer from Venezuela</h3>
+<h3 align="center">Front end web developer from Venezuela</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
