@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47vokcwj1fbrrhud851ws76sfuy9umqkfo4eqlvffb&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>
+<img align="center" width="100" src="https://media3.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47vokcwj1fbrrhud851ws76sfuy9umqkfo4eqlvffb&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>
 <h1 align="center">Hi There👋, I'm Marlon Mogollon</h1>
 <h3 align="center">Front end web developer from Venezuela</h3>
 
