@@ -4,6 +4,12 @@
   <h3>Developer Web and Systen Engenier Student</h3>
 </div>
 
+{
+  if(london === master){
+    <h2>By baby :c </h2>
+  }
+}
+
 
 - 🔭 I’m currently working on **my portfolio**
 
