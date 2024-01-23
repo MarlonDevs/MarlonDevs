@@ -1,14 +1,6 @@
-<div align="center">
-  <img width="200" src="https://media3.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47vokcwj1fbrrhud851ws76sfuy9umqkfo4eqlvffb&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>
-  <h1>Hi There👋, I'm Marlon Mogollon</h1>
-  <h3>Developer Web and Systen Engenier Student</h3>
-</div>
+# <img width="100" src="https://media3.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47vokcwj1fbrrhud851ws76sfuy9umqkfo4eqlvffb&ep=v1_gifs_related&rid=giphy.gif&ct=s"/> Hi There👋, Welcome to my github
 
-```
-  if(london === master){
-    <h2>By baby :c </h2>
-  }
-```
+![Header](./your-header-image-name.png)
 
 
 - 🔭 I’m currently working on **my portfolio**
