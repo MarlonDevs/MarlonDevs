@@ -1,6 +1,6 @@
 # <img width="100" src="https://media3.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47vokcwj1fbrrhud851ws76sfuy9umqkfo4eqlvffb&ep=v1_gifs_related&rid=giphy.gif&ct=s"/> Hi There👋, Welcome to my github
 
-![Header](./header-image-name.png)
+![Header](github-header-image.png)
 
 
 - 🔭 I’m currently working on **my portfolio**
