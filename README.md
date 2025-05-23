@@ -5,7 +5,7 @@
 # Description
 With experience in the world of web development. Recently graduated as a Systems Engineer and Full Stack Developer. From Zulia, Venezuela. With the ability to create and design unique Apps for you, as well as solve problems.
 
-* 🌍 I live in Utah, USA
+* 🌍 I live in Utah, United State
 * 🧠 I'm learning Python
 * 🤝 I'm open to collaborating on projects that help the community
 
