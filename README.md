@@ -3,15 +3,13 @@
 ![Header|1000](github-header.png)
 
 # Description
-I have been learning web programming for 2 years, after starting to study software engineering. At the time I started with HTML and CSS, creating only static sites, after a while I delved into a wide variety of Frameworks, in addition to learning many things about BackEnd..
+With experience in the world of web development. Recently graduated as a Systems Engineer and Full Stack Developer. From Zulia, Venezuela. With the ability to create and design unique Apps for you, as well as solve problems.
 
-* 🌍  I'm based in Zulia, Venezuela
-* 🖥️  See my portfolio at [My porfolio web](http://marlondevs.github.com)
-* ✉️  You can contact me at [marlonmogollon13@gmail.com](mailto:marlonmogollon13@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on en proyectos que ayuden la comunidad
+* 🌍 I live in Utah, USA
+* 🧠 I'm learning Python
+* 🤝 I'm open to collaborating on projects that help the community
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -52,6 +50,6 @@ I have been learning web programming for 2 years, after starting to study softwa
 </a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/marlondevs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/marlondevs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@marlondevs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
